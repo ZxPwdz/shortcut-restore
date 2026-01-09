@@ -85,7 +85,7 @@ Presets are stored in JSON format:
 
 ### Option 1: Download Release
 1. Go to [Releases](https://github.com/ZxPwdz/shortcut-restore/releases)
-2. Download `ShortcutRestore.exe`
+2. Download `ShortcutRestore.zip`
 3. Run the executable - no installation required!
 
 ### Option 2: Build from Source
